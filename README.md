@@ -8,17 +8,17 @@ Welcome to the CodSoft Projects Repository! This repository contains three proje
    - Build a simple chatbot that responds to user inputs based on predefined rules.
    - Utilize if-else statements or pattern matching techniques for handling user queries.
    - Gain understanding in natural language processing and conversation flow.
-
+    File added for it - chatbot.py
 2. **TIC-TAC-TOE AI**
    - Implement an AI agent that plays Tic-Tac-Toe against a human player.
    - Algorithms such as Minimax with or without Alpha-Beta Pruning can be used to create an unbeatable AI.
    - Explore game theory principles and basic search algorithms.
-
+    File added for it - player.py , game.py
 3. **RECOMMENDATION SYSTEM**
    - Develop a recommendation system that suggests items (e.g., movies, books, products) based on user preferences.
    - Techniques like collaborative filtering or content-based filtering can be implemented for personalized recommendations.
    - Gain practical experience in building recommendation algorithms.
-
+    File added for it - Recommendationsysten.py
 ## Project Structure
 
 Each project is organized into its own directory within this repository. You can find detailed README files, source code, and any necessary resources inside each project directory.
